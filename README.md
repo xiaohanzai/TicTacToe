@@ -3,6 +3,8 @@ A simple Tic Tac Toe game made in Unity and built with WebGL.
 Video demo:
 https://youtu.be/cdXrmozRBw0
 
+Itch.io link https://xiaohanwu.itch.io/tictactoe
+
 Some screenshots:
 
 <img width="477" alt="Screenshot 2024-03-27 at 10 37 30 AM" src="https://github.com/xiaohanzai/TicTacToe/assets/30164085/b530f714-c7e5-40ef-b62d-cf724a25088d">
